@@ -76,7 +76,7 @@ You can also position at the top/bottom (or left/right in `vertical` layouts) us
         <div>start</div>
     </div>
 
-    ![Default layout](screenshots/cross_axis_alignment_start.png)
+![Default layout](screenshots/cross_axis_alignment_start.png)
 
     <div horizontal layout end>
         <div>end</div>
