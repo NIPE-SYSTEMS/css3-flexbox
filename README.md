@@ -2,6 +2,8 @@
 
 This CSS file is a modified version of the layout capabilities in the javascript library [Polymer](https://www.polymer-project.org) (Version <= 0.5) from Google.
 
+It provides flexible horizontal and vertical layout with CSS3 flexboxes.
+
 The example images are screenshots taken from [https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html](https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html).
 
 # Horizontal and vertical layout
