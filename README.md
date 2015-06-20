@@ -9,7 +9,9 @@ It provides flexible horizontal and vertical layout with CSS3 flexboxes.
 In your HTML-file simply include the `layout.css`:
 
     <head>
+        ...
         <link rel="stylesheet" href="layout.css" />
+        ...
     </head>
 
 From then every following attributes and features are accessable.
