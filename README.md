@@ -4,7 +4,15 @@ This CSS file is a modified version of the layout capabilities in the javascript
 
 It provides flexible horizontal and vertical layout with CSS3 flexboxes.
 
-The example images are screenshots taken from [https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html](https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html). The text is modified and taken also from [https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html](https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html).
+# How to use
+
+In your HTML-file simply include the `layout.css`:
+
+    <head>
+        <link rel="stylesheet" href="layout.css" />
+    </head>
+
+From then every following attributes and features are accessable.
 
 # Horizontal and vertical layout
 
@@ -173,3 +181,7 @@ Layout direction can be mirrored with the `reverse` attribute.
     </div>
 
 ![Reverse order](screenshots/reverse.png)
+
+# Image and text sources
+
+The example images are screenshots taken from [https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html](https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html). The text is modified and taken also from [https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html](https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html).
