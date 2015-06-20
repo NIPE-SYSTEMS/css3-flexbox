@@ -75,12 +75,12 @@ You can also position at the top/bottom (or left/right in `vertical` layouts) us
     <div horizontal layout start>
         <div>start</div>
     </div>
-
-![Default layout](screenshots/cross_axis_alignment_start.png)
-
+    
     <div horizontal layout end>
         <div>end</div>
     </div>
+
+![Default layout](screenshots/cross_axis_alignment_start.png)
 
 ![Cross-axis children](screenshots/cross_axis_alignment_end.png)
 
