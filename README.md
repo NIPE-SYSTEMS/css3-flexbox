@@ -2,6 +2,8 @@
 
 This CSS file is a modified version of the layout capabilities in the javascript library [Polymer](https://www.polymer-project.org) (Version <= 0.5) from Google.
 
+The example images are screenshots taken from [https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html](https://www.polymer-project.org/0.5/docs/polymer/layout-attrs.html).
+
 # Horizontal and vertical layout
 
 When a container includes the `layout` attribute, it can become a flex container.
