@@ -16,7 +16,9 @@ In your HTML-file simply include the `layout.css`:
 
 From then every following attributes and features are accessable.
 
-# Horizontal and vertical layout
+# Attributes
+
+## Horizontal and vertical layout
 
 When a container includes the `layout` attribute, it can become a flex container.
 You can specify `horizontal`, `vertical` to change the orientation:
@@ -29,7 +31,7 @@ You can specify `horizontal`, `vertical` to change the orientation:
 
 ![Default layout](screenshots/default.png)
 
-## Flexible children
+### Flexible children
 
 Children of an element using the `layout` attribute can use `flex` attributes to control their own sizing. For example:
 
@@ -65,7 +67,7 @@ For example, to make "Gamma" 2x larger than "Beta" and "Alpha" 3x larger, use `f
 
 ![Flexible children](screenshots/flexible_children_ratio.png)
 
-## Cross-axis alignment
+### Cross-axis alignment
 
 By default, children stretch to fit the cross-axis (e.g. _vertical_ stretching in a _horizontal_ layout).
 
@@ -98,7 +100,7 @@ You can also position at the top/bottom (or left/right in `vertical` layouts) us
 
 ![Cross-axis children](screenshots/cross_axis_alignment_end.png)
 
-# Justification
+## Justification
 
 Justifying content is done with the `*-justified` attributes.
 
@@ -145,7 +147,7 @@ Justifying content is done with the `*-justified` attributes.
 
 ![Justification](screenshots/justification_around_justified.png)
 
-# Self alignment
+## Self alignment
 
 Alignment can also be set per-child (instead of using the layout containers rules):
 
@@ -158,7 +160,7 @@ Alignment can also be set per-child (instead of using the layout containers rule
 
 ![Self alignment](screenshots/self_alignment.png)
 
-# Wrapping
+## Wrapping
 
 Wrapped layouts can be enabled with the `wrap` attribute.
 
@@ -171,7 +173,7 @@ Wrapped layouts can be enabled with the `wrap` attribute.
 
 ![Wrapping](screenshots/wrapping.png)
 
-# Reverse order
+## Reverse order
 
 Layout direction can be mirrored with the `reverse` attribute.
 
